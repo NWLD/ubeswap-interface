@@ -10,7 +10,7 @@
     "@reduxjs/toolkit": "^1.5.1",
     "@sentry/webpack-plugin": "^1.16.0",
     "@typechain/ethers-v5": "^7.0.1",
-    "@types/jest": "^26.0.23",
+    "@types/jest": "^27.0.2",
     "@types/ledgerhq__hw-transport-webusb": "^4.70.1",
     "@types/lodash": "^4.14.170",
     "@types/lodash.flatmap": "^4.5.6",
@@ -111,7 +111,7 @@
     "prettier": "^2.3.0"
   },
   "dependencies": {
-    "@celo-tools/use-contractkit": "npm:@poofcash/use-contractkit@^1.0.2",
+    "@celo-tools/use-contractkit": "npm:@poofcash/use-contractkit@^1.0.4",
     "@celo/base": "^1.2.1",
     "@celo/connect": "^1.2.0",
     "@celo/contractkit": "^1.2.0",
